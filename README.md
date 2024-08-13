@@ -25,7 +25,5 @@ I'm a systems engineer and software developer, focused on web development. I lov
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leovergaramarq&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leovergaramarq&theme=dark&date_format=j%20M%5B%20Y%5D&background=45%2C0000008F%2C3D5557&ring=1C37F1&fire=3DFFFA&currStreakLabel=3BFDFF&hide_total_contributions=true)](https://git.io/streak-stats)
-
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=leovergaramarq&layout=compact&langs_count=10&theme=radical)](https://github.com/leovergaramarq)
